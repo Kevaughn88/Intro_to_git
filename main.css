@@ -1,0 +1,18 @@
+/*rule*/
+Selector {
+  /*attributes*/
+}
+
+h1{
+  color: black; 
+  backround-color: none;
+}
+
+a{color: blue;
+}
+
+ol{color: pink;
+}
+.bad{color:
+  green;
+}
